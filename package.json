@@ -1,23 +1,24 @@
 {
-  "name": "puppeteer-trial",
+  "name": "puppeteer-wendigo-juice-shop",
   "version": "1.0.0",
-  "description": "",
-  "main": "tests/index.js",
+  "description": "Demo of Puppeteer Wendigo on The OWASP Juice Shop",
   "scripts": {
     "test": "mocha tests"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trungkien681989/puppeteer-trial.git"
+    "url": "git+https://github.com/trungkien681989/puppeteer-wendigo-juice-shop.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kien (trungkien681989@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trungkien681989/puppeteer-trial/issues"
+    "url": "https://github.com/trungkien681989/puppeteer-wendigo-juice-shop/issues"
   },
-  "homepage": "https://github.com/trungkien681989/puppeteer-trial#readme",
+  "homepage": "https://github.com/trungkien681989/puppeteer-wendigo-juice-shop#readme",
   "devDependencies": {
+    "axios": "^0.27.2",
+    "chai": "^4.3.6",
     "mocha": "^10.0.0",
     "wendigo": "^3.0.2"
   }

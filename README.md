@@ -1,1 +1,1 @@
-# puperteer-trial
+# puppeteer-wendigo-juice-shop
