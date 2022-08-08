@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests/index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trungkien681989/puppeteer-trial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trungkien681989/puppeteer-trial/issues"
+  },
+  "homepage": "https://github.com/trungkien681989/puppeteer-trial#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "wendigo": "^3.0.2"
+  }
+}
